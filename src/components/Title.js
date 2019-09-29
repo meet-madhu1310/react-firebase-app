@@ -20,7 +20,7 @@ const styles = {
 const Title = (props) => (
     
     <div className={props.classes.container}>
-        <h1 className={props.classes.titleText}>Fun with Foods</h1>
+        <h1 className={props.classes.titleText}>Fun with Groceries</h1>
     </div>
 
 )
